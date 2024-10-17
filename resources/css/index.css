@@ -1,11 +1,12 @@
 body {
-    background-image: url(resources\background\backgrounddive2.jpg);
+    background-image: url(../background/backgrounddive2.jpg);
     text-align: center;
 }
 
 h1 {
     color: darkblue;
     text-align: center;
+    font-size: 20px;
 }
 
 
