@@ -35,6 +35,7 @@ div#index_top {
     bottom: auto;
     left: 0px;
     right: 0px;
+    min-width: 100%;
 }
 
 
