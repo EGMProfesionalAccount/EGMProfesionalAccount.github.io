@@ -64,6 +64,7 @@ h2#exp_title {
 li {
     font-family: Andale Mono, monospace;
     color: rgb(106, 173, 173);
+    text-align: left;
 }
 
 ul#exp_lists {
