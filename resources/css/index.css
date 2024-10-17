@@ -4,6 +4,7 @@ body {
     background-repeat: no-repeat;
     text-align: center;
     font-family: Andale Mono, monospace;
+    color: rgb(106, 173, 173);
 }
 
 a {
@@ -35,11 +36,27 @@ div#index_top {
     right: 0px;
 }
 
+
+
 h1 {
     font-family: DejaVu Sans Mono, monospace;
     color: rgb(106, 173, 173);
     text-align: center;
+    font-size: 50px;
+    font-weight: bold;
+}
+
+h2 {
+    font-family: DejaVu Sans Mono, monospace;
+    color: rgb(106, 173, 173);
+    text-align: center;
+    font-size: 30px;
+}
+
+h2#exp_title {
+    font-family: DejaVu Sans Mono, monospace
     font-size: 40px;
+    font-weight: bold;
 }
 
 ul#exp_lists {
