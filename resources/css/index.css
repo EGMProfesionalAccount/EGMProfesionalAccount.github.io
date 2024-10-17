@@ -1,9 +1,11 @@
 body {
-    background-image: url(resources\background\backgrounddive2.jpg).jpg";
+    background-image: url(resources\background\backgrounddive2.jpg);
+    text-align: center;
 }
 
 h1 {
     color: darkblue;
+    text-align: center;
 }
 
 
@@ -11,4 +13,10 @@ h1 {
 img#contact_icon {
     height: 128px;
     width: 128px;
+}
+
+img#title_image {
+    height: 50%;
+    width: 50%;
+    text-align: center;
 }
