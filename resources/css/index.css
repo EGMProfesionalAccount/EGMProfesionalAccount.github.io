@@ -1,6 +1,12 @@
-h1 {
-    color: red;
+body {
+    background-image: url(resources\background\backgrounddive.jpg).jpg";
 }
+
+h1 {
+    color: darkblue;
+}
+
+
 
 img#contact_icon {
     height: 128px;
