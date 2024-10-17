@@ -6,8 +6,12 @@ body {
     font-family: OCR A Std, monospace;
 }
 
+a {
+    color: inherit;
+}
+
 footer {
-    background-color: rgb(8, 116, 116);
+    background-color: rgb(19,36,67);
 }
 
 div#index_top {
@@ -15,11 +19,12 @@ div#index_top {
     font-size: 22px;
     font-weight: lighter;
     color: rgb(106, 173, 173);
+    background-color: black;
 }
 
 h1 {
     font-family: impact, fantasy;
-    color: rgb(19,36,67);
+    color: rgb(8, 116, 116);
     text-align: center;
     font-size: 40px;
 }
