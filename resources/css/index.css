@@ -1,18 +1,25 @@
 body {
     background-image: url(../background/backgrounddive2.jpg);
-    background-size: contain;
+    background-size: cover;
     background-repeat: no-repeat;
     text-align: center;
     font-family: OCR A Std, monospace;
 }
 
 footer {
-    background-color: azure;
+    background-color: rgb(8, 116, 116);
+}
+
+div#index_top {
+    font-family: Optima, sans-serif;
+    font-size: 22px;
+    font-weight: lighter;
+    color: rgb(106, 173, 173);
 }
 
 h1 {
     font-family: impact, fantasy;
-    color: lightblue;
+    color: rgb(19,36,67);
     text-align: center;
     font-size: 40px;
 }
