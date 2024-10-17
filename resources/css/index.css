@@ -42,7 +42,11 @@ h1 {
     font-size: 40px;
 }
 
-ul {
+ul#exp_lists {
+    list-style-type: square;
+}
+
+ul#index {
     list-style-type: none;
     display: flex;
     justify-content:space-around;
