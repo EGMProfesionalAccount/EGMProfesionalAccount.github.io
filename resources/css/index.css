@@ -19,7 +19,9 @@ h1 {
 
 ul {
     list-style-type: none;
-    display: inline-table;
+    display: flex;
+    justify-content:space-around;
+    list-style-type:none;
 }
 
 img#contact_icon {
