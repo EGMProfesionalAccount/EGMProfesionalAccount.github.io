@@ -12,6 +12,12 @@ a {
 
 footer {
     background-color: rgb(19,36,67);
+    height: 200px;
+    width: 100%;
+    bottom: 0px;
+    left: 0px;
+    right: 0px;
+    top: auto;
 }
 
 div#index_top {
@@ -20,15 +26,18 @@ div#index_top {
     font-weight: lighter;
     color: rgb(106, 173, 173);
     background-color: rgb(19,36,67);
-    height: 200%;
+    height: 30px;
     width: 100%;
     position: sticky;
     top: 0px;
+    bottom: auto;
+    left: 0px;
+    right: 0px;
 }
 
 h1 {
     font-family: DejaVu Sans Mono, monospace;
-    color: rgb(8, 116, 116);
+    color: rgb(106, 173, 173);
     text-align: center;
     font-size: 40px;
 }
