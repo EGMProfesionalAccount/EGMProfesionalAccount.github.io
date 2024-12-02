@@ -38,7 +38,28 @@ div#index_top {
     min-width: 100%;
 }
 
+li {
+    font-family: Andale Mono, monospace;
+    color: rgb(106, 173, 173);
+}
 
+ul#index {
+    list-style-type: none;
+    display: flex;
+    justify-content:space-around;
+    list-style-type:none;
+}
+
+img#contact_icon {
+    height: 64px;
+    width: 64px;
+}
+
+img#title_image {
+    height: 50%;
+    width: 50%;
+    text-align: justify;
+}
 
 h1 {
     font-family: DejaVu Sans Mono, monospace;
@@ -55,22 +76,8 @@ h2 {
     font-size: 30px;
 }
 
-h2#exp_title {
-    font-family: DejaVu Sans Mono, monospace;
-    font-size: 40px;
-    font-weight: bold;
-    text-align: left;
-}
 
-li {
-    font-family: Andale Mono, monospace;
-    color: rgb(106, 173, 173);
-    text-align: left;
-}
-
-ul#exp_lists {
-    list-style-type: square;
-}
+Index sector
 
 ul#index {
     list-style-type: none;
@@ -79,13 +86,47 @@ ul#index {
     list-style-type:none;
 }
 
-img#contact_icon {
-    height: 128px;
-    width: 128px;
+
+Experience sector
+
+h2#exp_title {
+    font-family: DejaVu Sans Mono, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
 }
 
-img#title_image {
-    height: 50%;
-    width: 50%;
-    text-align: justify;
+ul#exp_lists {
+    list-style-type: square;
+    text-align: left;
+}
+
+
+Education sector
+
+h2#edu_title {
+    font-family: DejaVu Sans Mono, monospace;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: right;
+}
+
+ul#edu_lists {
+    list-style-type: square;
+    text-align: rigjt;
+}
+
+
+About me sector
+
+p#extra {
+    text-align: center;
+}
+
+
+Contact sector
+
+img#contact_icon {
+    height: 64px;
+    width: 64px;
 }
