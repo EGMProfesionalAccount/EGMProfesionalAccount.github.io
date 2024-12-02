@@ -2,7 +2,7 @@ body {
     background-image: url(../background/backgrounddive2.jpg);
     background-size: cover;
     background-repeat: no-repeat;
-    text-align: center;
+    text-align: justify;
     font-family: Andale Mono, monospace;
     color: rgb(106, 173, 173);
 }
