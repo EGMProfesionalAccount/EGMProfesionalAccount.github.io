@@ -59,6 +59,7 @@ h2#exp_title {
     font-family: DejaVu Sans Mono, monospace;
     font-size: 40px;
     font-weight: bold;
+    text-align: right;
 }
 
 li {
