@@ -85,7 +85,7 @@ img#contact_icon {
 }
 
 img#title_image {
-    height: 25%;
-    width: 25%;
-    text-align: center;
+    height: 50%;
+    width: 50%;
+    text-align: justify;
 }
